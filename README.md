@@ -1,6 +1,8 @@
 # app_gerador_uuid
 
-## Aplicação para console feito com dart que gera uuid v4
+## Descrição
+
+Aplicação para console feito com dart que gera uuid v4.
 
 ## Tecnologia
 
@@ -15,3 +17,10 @@
 
 - Pub.dev
   1. [Pagina oficial](https://pub.dev/)
+
+## Instruções
+
+- Abrir terminal na pasta do projeto
+- Rodar no terminal o comando 'dart bin/app_gerador_uuid.dart'
+- Digitar o valor da quantidade
+- A lista de uuid vai ser escrita no terminal
